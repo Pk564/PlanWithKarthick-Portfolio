@@ -45,7 +45,7 @@ function Hero() {
                 I'm <span className="typing-text">{text}</span>
               </h1>
               <p className=" mb-4 description-text">
-                Planning Engineer with 4+ years of experience in offshore oil and gas projects, 
+                Planning Engineer with 4+ years of experience in oil and gas projects, 
                 expert in creating detailed schedules using Primavera P6. Skilled at presenting complex data 
                 through clear visuals and easy-to-understand formats. Proficient in transforming data into clear 4D/5D 
                 simulations with Syncro 4D and Twinmotion, optimizing project timelines and delivering actionable insights.
