@@ -56,7 +56,7 @@ function About() {
 
                   <p className="lead mb-4">
                     Planning Engineer with 4+ years of experience in the Oil & Gas
-                    sector, specializing in offshore project scheduling, progress
+                    sector, specializing in project scheduling, progress
                     control, and stakeholder coordination. Proficient in Primavera
                     P6, earned value management, and resource optimization. Known
                     for analytical problem-solving, cross-functional collaboration,
