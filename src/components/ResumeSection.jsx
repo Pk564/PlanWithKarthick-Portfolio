@@ -50,16 +50,16 @@ const ResumeSection = () => {
           </h4>
           <ul className="ps-0 mb-4">
             {[
-              "Develop and maintain valid project schedules using Primavera P6 aligned with project scope and objectives.",
-              "Plan, schedule, and manage work packages ensuring alignment with overall project timelines.",
-              "Monitor and update critical paths and interfaces between project activities to mitigate delays.",
-              "Prepare project performance reports including KPIs, cash flow forecasts, resource histograms, progress S-curves, manpower, and quantity tracking.",
-              "Establish and maintain project control plans, procedures, and documentation standards.",
-              "Coordinate weekly with the procurement team to ensure timely delivery of materials and equipment.",
-              "Represent the planning team in daily status calls with clients and internal teams, providing real-time updates on project progress.",
-              "Promote continuous improvement through lessons learned, process optimization, and participation in training and development initiatives.",
-              "Prepare and submit Effort Estimation Reports and IDM (Integrated Data Management) documents for QAG (Quality Assurance Group) purposes.",
-              "Logistics simulation for heavy lifting / complex plan using SYNCHRO 4D.",
+              "Prepare valid, logic-driven project schedules in Primavera P6",
+              "Plan, schedule, and manage defined work packages",
+              "Verify and update the critical path and interfaces between task activities",
+              "Prepare Key Performance Indicators (KPIs), cash-flow charts, histograms, progress S-curves, manpower reports",
+              "Well-versed in project measurement methodology (CMS, Material Receiving Log, Fabrication Log, Installation Log)",
+              "Track contractor productivity, perform delay analysis, and revise schedules as required",
+              "Develop and maintain project controls plans, procedures, and governance",
+              "Provide weekly updates to the procurement team to ensure timely materials and equipment",
+              "Present daily/weekly project status to clients and internal teams",
+              "Drive continuous improvement through lessons learned, process optimization, and training & development programs",
             ].map((task, i) => (
               <li key={i}>
                 <CheckCircle size={14} className="list-icon" style={{ color: "orange" }} />
@@ -75,7 +75,6 @@ const ResumeSection = () => {
               <h6>Functional & Technical</h6>
               <ul className="ps-0">
                 {[
-                  "Logistics Simulation for the heavy lifting / complex Plan",
                   "Project documentation and product data management",
                   "Advanced Excel automation using VBA",
                   "Collaborative teamwork in cross-functional environments",
@@ -97,7 +96,10 @@ const ResumeSection = () => {
                   "On-time Delivery (OTD) planning",
                   "Root cause analysis and problem solving",
                   "Process optimization and continuous improvement",
-                  "Effort estimation & IDM documentation (QAG)",
+                  "Functional Skill: Documentation and product data management, team work, Excel VBA automation, Python Automation",
+                  "Management Skill: Training and team development, Planning for OTD, Problem solving",
+                  "Tools: Primavera P6, Excel VBA, Syncro Pro 4d, SQL, Power BI, Power Platform Apps, SAP, SAP ECTR, Command Center, SolidWorks, AutoCAD"
+
                 ].map((skill, i) => (
                   <li key={i}>
                     <CheckCircle size={14} className="list-icon" style={{ color: "orange" }} />
