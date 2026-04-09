@@ -115,10 +115,19 @@ const ResumeSection = () => {
         <div className="resume-box mb-4">
           <h4 className="section-title">Projects Undertaken</h4>
           <ProjectItem
+            title="ESP Kuraray Asia Pacific"
+            client="Wood PLC / Kuraray Asia Pacific Pte. Ltd.[Feb 25 - Present]"
+            details={[
+              "Role: Project Controls & Planning Engineer",
+              "Client: Wood PLC / Kuraray Asia Pacific Pte. Ltd., Singapore",
+              "Tools: Primavera P6, Excel VBA, Power BI, SQL, Python",
+            ]}
+          />
+          <ProjectItem
             title="BH F&PT Offshore Support"
             client="HCL TECHNOLOGIES [MAR 21 - JAN 25]"
             details={[
-              "Role: Planning Engineer",
+              "Role: Project Controls & Planning Engineer",
               "Client: Baker Hughes, USA",
               "Tools: Primavera P6, Excel VBA, Power BI, SQL, Power Apps, Power Automate",
             ]}
@@ -127,7 +136,7 @@ const ResumeSection = () => {
             title="Database Migration Oracle to SAP"
             client="HCL TECHNOLOGIES [MAR 21 - AUG 24]"
             details={[
-              "Role: Planning Engineer",
+              "Role: Project Controls & Planning Engineer",
               "Client: Baker Hughes, USA",
               "Tools: Primavera P6, Excel VBA, SAP, SAP Automation, Power BI",
             ]}
@@ -136,7 +145,7 @@ const ResumeSection = () => {
             title="Spare Parts Creation for SRV and SV Valves"
             client="HCL TECHNOLOGIES [MAR 22 - DEC 23]"
             details={[
-              "Role: Planning Engineer",
+              "Role:Project Controls & Planning Engineer",
               "Client: Baker Hughes, USA",
               "Tools: Primavera P6, Excel VBA, SAP, SAP Automation, Power BI",
             ]}

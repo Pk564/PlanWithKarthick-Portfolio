@@ -52,7 +52,7 @@ function About() {
                 <div className="about-content">
                   <span className="subtitle">About Karthikeyan PMP® FSBI®</span>
 
-                  <h2>Planning Engineer / Planner </h2>
+                  <h2>Project Controls & Planning Engineer</h2>
 
                   <p className="lead mb-4">
                     Project Controls & Planning Engineer with 5+ years of experience in Oil & Gas, EPC environments across India and Singapore, 
