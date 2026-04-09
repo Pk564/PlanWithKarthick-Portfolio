@@ -80,7 +80,7 @@ const ResumeSection = () => {
                   "Collaborative teamwork in cross-functional environments",
                   "Power BI Dashboards — real-time project visibility",
                   "Python Automation — cut reporting time by 60%",
-                  "SExcel VBA Tools — saving ~160 hours/year across project teams",
+                  "Excel VBA Tools — saving ~160 hours/year across project teams",
                 ].map((skill, i) => (
                   <li key={i}>
                     <CheckCircle size={14} className="list-icon" style={{ color: "orange" }} />
