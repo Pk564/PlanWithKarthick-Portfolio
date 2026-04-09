@@ -3,16 +3,16 @@ import "./Certificates.css";
 
 const certificates = [
   {
-    title : "Project Management, PMP, PMI Certification",
-    tag: "Project Management Professional (PMP)®",
+    title : "Project Management Professional (PMP)®",
+    tag: "Project Management",
     desc: "Globally recognized certification demonstrating knowledge and experience in leading and directing projects using predictive, agile, and hybrid approaches.",
-    issuer: "Project Management Institute (PMI)",
+    issuer: "Project Management Institute (PMI) ",
     year: "2025",
     url: "https://www.credly.com/badges/bd63ef6a-9e0e-46f9-8613-055e699df5b3"
   },
   {
     title: "Project Scheduling, Primavera P6, Oracle",
-    tag: "Primavera P6 Professional",
+    tag: "Project Management",
     desc: "Comprehensive training in Oracle Primavera P6 Professional for effective project scheduling, resource management, and progress tracking in complex projects.",
     issuer: "Oracle",
     year: "2025",
@@ -20,47 +20,89 @@ const certificates = [
   },
   {
     title: "Project Planning & Scheduling For Construction Management",
-    tag: "Primavera P6",
+    tag: "Project Management",
     desc: "Skilled in Primavera P6, a robust project management tool for planning, scheduling, and controlling complex projects, ensuring efficient resource utilization and timely project delivery.",
     issuer: "CADD® CENTER",
     year: "2020",
     url: "https://drive.google.com/file/d/1gtIPUwug18WzWFfiyvbnva_XA1jeRVZE/view?usp=sharing"
   },
+   {
+    title: "Expert Training in Advanced Delay and Disruption Analysis in Construction",
+    tag: "Delay Analysis & Advanced Scheduling",
+    desc: "Certified in Advanced Delay and Disruption Analysis in Construction, with hands-on knowledge of Forensic Delay Analysis, Disruption Claims, SCL Protocol, and AACE 29R-03 frameworks.",
+    issuer: "AH Planning ",
+    year: "2026",
+    url: "https://drive.google.com/file/d/10GlW_7drKCgzkM0RqqqgrJJbBbm470VP/view?usp=drive_link"
+  },
+   {
+    title: "Advanced Baseline Time Scheduling Techniques",
+    tag: "Delay Analysis & Advanced Scheduling",
+    desc: "Proficient in using SYNCRO 4D for project planning, 4D scheduling, and visualizing construction projects to enhance project execution and stakeholder communication.",
+    issuer: "EDGE PMO",
+    year: "2026",
+    url: "https://drive.google.com/file/d/1y2H2igfg_CxW3O_TuZQANBGMxYKE1_7y/view?usp=drive_link"
+  },
+
   {
-    title: "4D Scheduling, Project Visualization, Construction Management",
+    title: "5D Scheduling and BIM",
     tag: "SYNCHRO 4D Bentley",
     desc: "Proficient in using SYNCRO 4D for project planning, 4D scheduling, and visualizing construction projects to enhance project execution and stakeholder communication.",
     issuer: "LinkedIn Learning",
     year: "2024",
-    url: "https://www.linkedin.com/learning/certificates/faa86a86998bfbc945b0a454ad5c10f72e364b2a8b11e9d7fcb806a3b05dc52e"
+    url: "https://drive.google.com/file/d/1XeHlvW7PISpJF9nLaW39QXGrphi_JOBt/view?usp=drive_link"
   },
   {
-    title: "Microsoft Full Stack PowerBI Developer",
-    tag: "Power Business Intelligence (FSBI)®",
+    title: "Data and Analytics",
+    tag: "Fullstack Power Business Intelligence (FSBI)®",
     desc: "Turn complex project data into clear, actionable insights through interactive dashboards and real-time visualizations.",
     issuer: "Excel Goodies - Microsoft Gold Certified Partner",
     year: "2025",
-    url: "https://learn.microsoft.com/en-us/certifications/power-bi-data-analyst-associate/"
+    url: "https://drive.google.com/file/d/1a6eV7lI0lxe1TDpVPFHpWcZM6kcVm-zl/view?usp=drive_link"
   },
   {
-    title: "Excel Automation, VBA, Macros",
-    tag: "Excel Visual Basic for Application Developer",
-    desc: "Programming language used to automate tasks and create custom functions in Microsoft Excel",
+    title: "Data and Analytics",
+    tag: "•	MIS Reporting and Business Modeling Specialist using MS Excel ",
+    desc: "Skilled in building dynamic reports, financial models, data dashboards, and automated templates to support data-driven business decisions.",
     issuer: "Excel Goodies - Microsoft Gold Certified Partner",
-    year: "2022",
-    url: "https://www.excelgoodies.com/VerifyCertificate/VerifyCertificateFSBI/Index?CNo1=HZ48&CNo2=29MV"
+    year: "2026",
+    url: "https://drive.google.com/file/d/1U6lZimO6b4jy95isPe2VIF_qCry22Vr4/view?usp=sharing"
+  }, 
+  {
+    title: "Data and Analytics",
+    tag: "Data Analysis & Dashboard Associate using Power BI",
+    desc: "Certified in core Microsoft Excel skills, including data entry, formatting, formulas, charts, tables, and pivot tables. Proficient in using Excel for data analysis, reporting, and business productivity. ",
+    issuer: "Excel Goodies - Microsoft Gold Certified Partner",
+    year: "2025",
+    url: "https://drive.google.com/file/d/1a6eV7lI0lxe1TDpVPFHpWcZM6kcVm-zl/view?usp=sharing"
   },
   {
-    title: "SQL, Data Analysis, Reporting Specialist",
-    tag: "SQL (Structured Query Languange)",
+    title: "Data and Analytics",
+    tag: "SQL, Data Analysis, Reporting Specialist",
     desc: "Certified SQL Reporting Specialist skilled in writing advanced queries, managing relational databases, and transforming raw data into actionable business insights.",
     issuer: "Excel Goodies - Microsoft Gold Certified Partner",
     year: "2025",
-    url: "https://education.oracle.com/oracle-database-sql/"
+    url: "https://drive.google.com/file/d/1S_TuCkoxqoEo7e29opJGMN1Y54pqm73R/view?usp=sharing"
+  },    
+ {
+    title: "Automation",
+    tag: "Excel Visual Basic for Application Developer",
+    desc: "Programming language used to automate tasks and create custom functions in Microsoft Excel",
+    issuer: "Excel Goodies - Microsoft Gold Certified Partner",
+    year: "2025",
+    url: "https://drive.google.com/file/d/1bGX9ERaXLKkEi1VvpEzWN6PVgDA_Ed9l/view?usp=sharing"
   },
   
   {
-    title: "Power Apps, Workflow Automation, Report Generation",
+    title: "Automation",
+    tag: "Business Reporting Specialist using Python & Power BI",
+    desc: "Programming language used to automate tasks and create custom functions in Microsoft Excel",
+    issuer: "Excel Goodies - Microsoft Gold Certified Partner",
+    year: "2025",
+    url: "https://drive.google.com/file/d/1gLJ_6FaCqOKhDzMTPvoWGAIr6BU737lx/view?usp=sharing"
+  },
+  
+  {
+    title: "Automation",
     tag: "Microsoft Power Apps",
     desc: "Certified in designing and implementing custom apps and automated workflows using Microsoft Power Apps, enabling efficient project tracking and reporting at both micro and macro levels.",
     issuer: "Excel Goodies - Microsoft Gold Certified Partner",
@@ -69,29 +111,14 @@ const certificates = [
   },
 
   {
-    title: "Automation, Workflow Management, Process Optimization",
+    title: "Automation",
     tag: "Microsoft Power Automate",
     desc: "Proficient in automating workflows, integrating systems, and streamlining repetitive tasks using Microsoft Power Automate to enhance efficiency in project management and reporting.",
     issuer: "Excel Goodies - Microsoft Gold Certified Partner",
     year: "2025",
     url: "https://www.datacamp.com"
   },
-    {
-    title: "Data Management, Process Optimization",
-    tag: "Microsoft Excel Associate",
-    desc: "Certified in core Microsoft Excel skills, including data entry, formatting, formulas, charts, tables, and pivot tables. Proficient in using Excel for data analysis, reporting, and business productivity. ",
-    issuer: "Excel Goodies - Microsoft Gold Certified Partner",
-    year: "2025",
-    url: "https://www.excelgoodies.com/VerifyCertificate/VerifyCertificateFSBI/Index?CNo1=CO21&CNo2=05GF"
-  },    
-  {
-    title: "Data Analyst, Dashboard Creation",
-    tag: "Data Analysis & Dashboard Associate using Power BI",
-    desc: "Certified in core Microsoft Excel skills, including data entry, formatting, formulas, charts, tables, and pivot tables. Proficient in using Excel for data analysis, reporting, and business productivity. ",
-    issuer: "Excel Goodies - Microsoft Gold Certified Partner",
-    year: "2025",
-    url: "https://www.excelgoodies.com/VerifyCertificate/VerifyCertificateFSBI/Index?CNo1=QL08&CNo2=64BU"
-  },
+
 ];
 
 const tools = [

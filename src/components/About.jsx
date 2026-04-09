@@ -55,14 +55,11 @@ function About() {
                   <h2>Planning Engineer / Planner </h2>
 
                   <p className="lead mb-4">
-                    Planning Engineer with 4+ years of experience in the Oil & Gas
-                    sector, specializing in project scheduling, progress
-                    control, and stakeholder coordination. Proficient in Primavera
-                    P6, earned value management, and resource optimization. Known
-                    for analytical problem-solving, cross-functional collaboration,
-                    and precision-driven reporting. A results-oriented professional
-                    committed to delivering project objectives on time and within
-                    scope.
+                    Project Controls & Planning Engineer with 5+ years of experience in Oil & Gas, EPC environments across India and Singapore, 
+                    specializing in logic-driven Primavera P6 scheduling, critical path analysis, and earned value management. 
+                    Proficient in WBS decomposition, longest path analysis, float analysis, delay analysis, and Power BI / Python automation. 
+                    Holds PMP® from PMI with a proven track record on multi-million-dollar projects for Baker Hughes (USA) and Kuraray Asia Pacific. 
+                    A precision-driven professional committed to proactive schedule risk management and delivering project objectives on time and within scope.
                   </p>
 
                   <div className="personal-info">
@@ -83,8 +80,8 @@ function About() {
 
                       <div className="col-6">
                         <div className="info-item">
-                          <span className="label">Age</span>
-                          <span className="value">26 Years</span>
+                          <span className="label">Phone</span>
+                          <span className="value">+65 89268246</span>
                         </div>
                       </div>
 
@@ -98,7 +95,7 @@ function About() {
                       <div className="col-6">
                         <div className="info-item">
                           <span className="label">Occupation</span>
-                          <span className="value">Planning Engineer / Planner </span>
+                          <span className="value">Project Controls / Planning Engineer</span>
                         </div>
                       </div>
 

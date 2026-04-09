@@ -50,15 +50,15 @@ const ResumeSection = () => {
           </h4>
           <ul className="ps-0 mb-4">
             {[
-              "Prepare valid, logic-driven project schedules in Primavera P6",
-              "Plan, schedule, and manage defined work packages",
-              "Verify and update the critical path and interfaces between task activities",
-              "Prepare Key Performance Indicators (KPIs), cash-flow charts, histograms, progress S-curves, manpower reports",
-              "Well-versed in project measurement methodology (CMS, Material Receiving Log, Fabrication Log, Installation Log)",
-              "Track contractor productivity, perform delay analysis, and revise schedules as required",
-              "Develop and maintain project controls plans, procedures, and governance",
-              "Provide weekly updates to the procurement team to ensure timely materials and equipment",
-              "Present daily/weekly project status to clients and internal teams",
+              "Build logic-driven, resource-loaded Primavera P6 Integrated Master Schedules (IMS)",
+              "Perform Critical Path Analysis (CPA), Longest Path Analysis & Float Consumption Trending",
+              "Conduct Delay Analysis using Time Impact Analysis (TIA) — recovery plans within 48 hours",
+              "Deliver KPI dashboards, S-curves, Cash Flow Forecasts & Manpower Histograms",
+              "Apply CMS Progress Measurement — Material Receiving, Fabrication & Installation Logs",
+              "Track contractor productivity & coordinate procurement to protect schedule critical dates",
+              "Develop and maintain project controls plans, procedures, and governance frameworks",
+              "Present daily/weekly project status reports to clients and senior management",
+              "Identified and recovered a critical path delay through schedule compression and resource reallocation — restoring baseline completion date without scope reduction",
               "Drive continuous improvement through lessons learned, process optimization, and training & development programs",
             ].map((task, i) => (
               <li key={i}>
@@ -78,9 +78,9 @@ const ResumeSection = () => {
                   "Project documentation and product data management",
                   "Advanced Excel automation using VBA",
                   "Collaborative teamwork in cross-functional environments",
-                  "Primavera P6, Microsoft Project Plan 3",
-                  "Excel VBA, SYNCHRO 4D, Navisworks, SAP, SAP ECTR, Command Center",
-                  "SolidWorks, AutoCAD",
+                  "Power BI Dashboards — real-time project visibility",
+                  "Python Automation — cut reporting time by 60%",
+                  "SExcel VBA Tools — saving ~160 hours/year across project teams",
                 ].map((skill, i) => (
                   <li key={i}>
                     <CheckCircle size={14} className="list-icon" style={{ color: "orange" }} />

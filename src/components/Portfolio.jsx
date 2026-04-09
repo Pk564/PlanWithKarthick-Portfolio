@@ -57,18 +57,16 @@ function Portfolio() {
             <div className="portfolio-filters-container" data-aos="fade-up" data-aos-delay="200">
               <ul className="portfolio-filters isotope-filters">
                 <li data-filter="*" className="filter-active" onClick={(e) => handleFilterClick(e, "*")}>All Work</li>                
-                <li data-filter=".filter-ExcelVBA" onClick={(e) => handleFilterClick(e, ".filter-ExcelVBA")}>Excel VBA Automation</li>
+                <li data-filter=".filter-ExcelVBA" onClick={(e) => handleFilterClick(e, ".filter-ExcelVBA")}>Automation</li>
                 <li data-filter=".filter-PowerBI" onClick={(e) => handleFilterClick(e, ".filter-PowerBI")}>Power BI Dashboards</li>
-                <li data-filter=".filter-PowerApps" onClick={(e) => handleFilterClick(e, ".filter-PowerApps")}>Power Apps</li>
-                <li data-filter=".filter-PowerAutomation" onClick={(e) => handleFilterClick(e, ".filter-PowerAutomation")}>Power Automation</li>
-                <li data-filter=".filter-4D5D" onClick={(e) => handleFilterClick(e, ".filter-4D5D")}>4D/5D Scheduling</li> {/* New Tab */}
+                 <li data-filter=".filter-4D5D" onClick={(e) => handleFilterClick(e, ".filter-4D5D")}>4D/5D Scheduling</li> {/* New Tab */}
               </ul>
             </div>
 
             <div className="row g-4 isotope-container" data-aos="fade-up" data-aos-delay="300" ref={isotopeContainer}>
 
               {/* Power Automation Item */}
-              <div className="col-lg-6 col-md-6 portfolio-item isotope-item filter-PowerAutomation">
+              <div className="col-lg-6 col-md-6 portfolio-item isotope-item filter-Automation">
                 <div className="portfolio-card">
                   <div className="portfolio-image">
                     <img src={portfolioimg2} className="img-fluid" alt="" loading="lazy" />
@@ -93,7 +91,7 @@ function Portfolio() {
               </div>
 
               {/* Power Apps */}
-              <div className="col-lg-6 col-md-6 portfolio-item isotope-item filter-PowerApps">
+              <div className="col-lg-6 col-md-6 portfolio-item isotope-item filter-Automation">
                 <div className="portfolio-card">
                   <div className="portfolio-image">
                     <img src={portfolioimg7} className="img-fluid" alt="" loading="lazy" />
@@ -142,10 +140,10 @@ function Portfolio() {
               </div>
 
               {/* Excel VBA Automation */}
-              <div className="col-lg-6 col-md-7 portfolio-item isotope-item filter-ExcelVBA">
+              <div className="col-lg-6 col-md-7 portfolio-item isotope-item filter-Automation">
                 <div className="portfolio-card">
                   <div className="portfolio-image">
-                    <img src={portfolioimg5} className="img-fluid" alt="Excel VBA Automation" loading="lazy" />
+                    <img src={portfolioimg5} className="img-fluid" alt="Automation" loading="lazy" />
                     <div className="portfolio-overlay">
                       <div className="portfolio-actions">
                         <a
@@ -167,10 +165,10 @@ function Portfolio() {
               </div>
 
                             {/* Excel VBA Automation */}
-              <div className="col-lg-6 col-md-6 portfolio-item isotope-item filter-ExcelVBA">
+              <div className="col-lg-6 col-md-6 portfolio-item isotope-item filter-Automation">
                 <div className="portfolio-card">
                   <div className="portfolio-image">
-                    <img src={portfolioimg5} className="img-fluid" alt="Excel VBA Automation" loading="lazy" />
+                    <img src={portfolioimg5} className="img-fluid" alt="Automation" loading="lazy" />
                     <div className="portfolio-overlay">
                       <div className="portfolio-actions">
                         <a
