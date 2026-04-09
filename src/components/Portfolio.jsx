@@ -57,7 +57,7 @@ function Portfolio() {
             <div className="portfolio-filters-container" data-aos="fade-up" data-aos-delay="200">
               <ul className="portfolio-filters isotope-filters">
                 <li data-filter="*" className="filter-active" onClick={(e) => handleFilterClick(e, "*")}>All Work</li>                
-                <li data-filter=".filter-ExcelVBA" onClick={(e) => handleFilterClick(e, ".filter-ExcelVBA")}>Automation</li>
+                <li data-filter=".filter-Automation" onClick={(e) => handleFilterClick(e, ".filter-Automation")}>Automation</li>
                 <li data-filter=".filter-PowerBI" onClick={(e) => handleFilterClick(e, ".filter-PowerBI")}>Power BI Dashboards</li>
                  <li data-filter=".filter-4D5D" onClick={(e) => handleFilterClick(e, ".filter-4D5D")}>4D/5D Scheduling</li> {/* New Tab */}
               </ul>
