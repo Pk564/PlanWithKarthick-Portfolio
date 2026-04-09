@@ -44,48 +44,48 @@ const certificates = [
   },
 
   {
-    title: "5D Scheduling and BIM",
-    tag: "SYNCHRO 4D Bentley",
+    title: "SYNCHRO 4D Bentley",
+    tag: "5D Scheduling and BIM",
     desc: "Proficient in using SYNCRO 4D for project planning, 4D scheduling, and visualizing construction projects to enhance project execution and stakeholder communication.",
     issuer: "LinkedIn Learning",
     year: "2024",
     url: "https://drive.google.com/file/d/1XeHlvW7PISpJF9nLaW39QXGrphi_JOBt/view?usp=drive_link"
   },
   {
-    title: "Data and Analytics",
-    tag: "Fullstack Power Business Intelligence (FSBI)®",
+    title: "Fullstack Power Business Intelligence (FSBI)®",
+    tag: "Data and Analytics",
     desc: "Turn complex project data into clear, actionable insights through interactive dashboards and real-time visualizations.",
     issuer: "Excel Goodies - Microsoft Gold Certified Partner",
     year: "2025",
     url: "https://drive.google.com/file/d/1a6eV7lI0lxe1TDpVPFHpWcZM6kcVm-zl/view?usp=drive_link"
   },
   {
-    title: "Data and Analytics",
-    tag: "•	MIS Reporting and Business Modeling Specialist using MS Excel ",
+    title: "	MIS Reporting and Business Modeling Specialist using MS Excel",
+    tag: "Data and Analytics",
     desc: "Skilled in building dynamic reports, financial models, data dashboards, and automated templates to support data-driven business decisions.",
     issuer: "Excel Goodies - Microsoft Gold Certified Partner",
     year: "2026",
     url: "https://drive.google.com/file/d/1U6lZimO6b4jy95isPe2VIF_qCry22Vr4/view?usp=sharing"
   }, 
   {
-    title: "Data and Analytics",
-    tag: "Data Analysis & Dashboard Associate using Power BI",
+    title: "Data Analysis & Dashboard Associate using Power BI",
+    tag: "Data and Analytics",
     desc: "Certified in core Microsoft Excel skills, including data entry, formatting, formulas, charts, tables, and pivot tables. Proficient in using Excel for data analysis, reporting, and business productivity. ",
     issuer: "Excel Goodies - Microsoft Gold Certified Partner",
     year: "2025",
     url: "https://drive.google.com/file/d/1a6eV7lI0lxe1TDpVPFHpWcZM6kcVm-zl/view?usp=sharing"
   },
   {
-    title: "Data and Analytics",
-    tag: "SQL, Data Analysis, Reporting Specialist",
+    title: "SQL, Data Analysis, Reporting Specialist",
+    tag: "Data and Analytics",
     desc: "Certified SQL Reporting Specialist skilled in writing advanced queries, managing relational databases, and transforming raw data into actionable business insights.",
     issuer: "Excel Goodies - Microsoft Gold Certified Partner",
     year: "2025",
     url: "https://drive.google.com/file/d/1S_TuCkoxqoEo7e29opJGMN1Y54pqm73R/view?usp=sharing"
   },    
  {
-    title: "Automation",
-    tag: "Excel Visual Basic for Application Developer",
+    title: "Excel Visual Basic for Application Developer",
+    tag: "Automation",
     desc: "Programming language used to automate tasks and create custom functions in Microsoft Excel",
     issuer: "Excel Goodies - Microsoft Gold Certified Partner",
     year: "2025",
@@ -93,8 +93,8 @@ const certificates = [
   },
   
   {
-    title: "Automation",
-    tag: "Business Reporting Specialist using Python & Power BI",
+    title: "Business Reporting Specialist using Python & Power BI",
+    tag: "Automation",
     desc: "Programming language used to automate tasks and create custom functions in Microsoft Excel",
     issuer: "Excel Goodies - Microsoft Gold Certified Partner",
     year: "2025",
@@ -102,21 +102,21 @@ const certificates = [
   },
   
   {
-    title: "Automation",
-    tag: "Microsoft Power Apps",
+    title: "Microsoft Power Apps",
+    tag: "Automation",
     desc: "Certified in designing and implementing custom apps and automated workflows using Microsoft Power Apps, enabling efficient project tracking and reporting at both micro and macro levels.",
     issuer: "Excel Goodies - Microsoft Gold Certified Partner",
     year: "2025",
-    url: "https://www.datacamp.com"
+    url: "https://drive.google.com/file/d/1gLJ_6FaCqOKhDzMTPvoWGAIr6BU737lx/view?usp=sharing"
   },
 
   {
-    title: "Automation",
-    tag: "Microsoft Power Automate",
+    title: "Microsoft Power Automate",
+    tag: "Automation",
     desc: "Proficient in automating workflows, integrating systems, and streamlining repetitive tasks using Microsoft Power Automate to enhance efficiency in project management and reporting.",
     issuer: "Excel Goodies - Microsoft Gold Certified Partner",
     year: "2025",
-    url: "https://www.datacamp.com"
+    url: "https://drive.google.com/file/d/1gLJ_6FaCqOKhDzMTPvoWGAIr6BU737lx/view?usp=sharing"
   },
 
 ];
