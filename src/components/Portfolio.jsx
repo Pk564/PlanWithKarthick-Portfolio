@@ -5,10 +5,10 @@ import imagesLoaded from "imagesloaded";
 import GLightbox from "glightbox";
 import "glightbox/dist/css/glightbox.css";
 
-import portfolioimg1 from "../assets/img/portfolio/portfolio-1.webp";
+
 import portfolioimg2 from "../assets/img/portfolio/portfolio-2.webp";
 import portfolioimg5 from "../assets/img/portfolio/portfolio-5.webp";
-import portfolioimg4 from "../assets/img/portfolio/portfolio-4.webp";
+
 import portfolioimg7 from "../assets/img/portfolio/portfolio-7.webp";
 import portfolioimg10 from "../assets/img/portfolio/portfolio-10.webp";
 import portfolioimg11 from "../assets/img/portfolio/portfolio-11.webp"; // New image for 4D/5D Scheduling

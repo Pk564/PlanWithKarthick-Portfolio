@@ -7,13 +7,13 @@ import ResumeSection from "./ResumeSection";
 import ServicesSection from "./ServicesSection";
 import ContactForm from "./ContactForm";
 import WhatsAppButton from "./WhatsAppButton";
-
+const titles = ["Project Controls / Planning Engineer", "Planning Engineer", "Project Planner"];
 
 function Hero() {
   const [text, setText] = useState("");
   const [index, setIndex] = useState(0);
   const [deleting, setDeleting] = useState(false);
-  const titles = ["Project Controls / Planning Engineer", "Planning Engineer", "Project Planner"];
+  
 
   useEffect(() => {
     let typing;
