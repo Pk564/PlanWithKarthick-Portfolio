@@ -2,6 +2,14 @@ import React from "react";
 import "./Certificates.css";
 
 const certificates = [
+   {
+    title: "Fullstack Power Business Intelligence (FSBI)®",
+    tag: "Data and Analytics",
+    desc: "Turn complex project data into clear, actionable insights through interactive dashboards and real-time visualizations.",
+    issuer: "Excel Goodies - Microsoft Gold Certified Partner",
+    year: "2025",
+    url: "https://drive.google.com/file/d/1a6eV7lI0lxe1TDpVPFHpWcZM6kcVm-zl/view?usp=drive_link"
+  },
   {
     title : "Project Management Professional (PMP)®",
     tag: "Project Management",
@@ -51,14 +59,7 @@ const certificates = [
     year: "2024",
     url: "https://drive.google.com/file/d/1XeHlvW7PISpJF9nLaW39QXGrphi_JOBt/view?usp=drive_link"
   },
-  {
-    title: "Fullstack Power Business Intelligence (FSBI)®",
-    tag: "Data and Analytics",
-    desc: "Turn complex project data into clear, actionable insights through interactive dashboards and real-time visualizations.",
-    issuer: "Excel Goodies - Microsoft Gold Certified Partner",
-    year: "2025",
-    url: "https://drive.google.com/file/d/1a6eV7lI0lxe1TDpVPFHpWcZM6kcVm-zl/view?usp=drive_link"
-  },
+ 
   {
     title: "	MIS Reporting and Business Modeling Specialist using MS Excel",
     tag: "Data and Analytics",
